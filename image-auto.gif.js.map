@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./docs/images/auto.gif"],"names":["module","exports","__webpack_require__","p"],"mappings":"8EAAAA,EAAAC,QAAiBC,EAAAC,EAAuB","file":"image-auto.gif.js","sourcesContent":["module.exports = __webpack_public_path__ + \"c2288ac837a6ba66db760767fe4a1591.gif\";"],"sourceRoot":""}
